@@ -1,3 +1,4 @@
 # cordova platform
 /plugins
 /platforms
+/node_modules
