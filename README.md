@@ -1,6 +1,6 @@
 # WebRTC Cordova
 
-Cordova crossplatform application to test WebRTC API on mobile device
+Cordova crossplatform application to test WebRTC camera API on mobile device
 
 ## Requirements
 ```
