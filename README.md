@@ -11,16 +11,8 @@ To build and run application on android:
 - Android API 22 with "ANDROID_HOME" env variable set to android sdk path
 - JDK 1.8 with "JAVA_HOME" env variable set
 
-## Adding platform (android, browser,...)
-```
-cordova platform add android
-```
-or/and
-```
-cordova platform add browser
-```
 
-## Update new plugin referenced in config.xml
+## Setup project
 ```
 cordova prepare
 ```
