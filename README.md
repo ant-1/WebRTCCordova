@@ -17,6 +17,10 @@ To build and run application on android:
 cordova prepare
 ```
 
+This command will:
+- Install platforms declared in config.xml
+- Download plugins declared in config.xml
+
 ## Build and run application
 To run the application on an android phone plugged to your computer
 ```
