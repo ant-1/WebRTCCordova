@@ -2,3 +2,7 @@
 /plugins
 /platforms
 /node_modules
+
+# Intellij IDE
+*.iml
+/.idea
